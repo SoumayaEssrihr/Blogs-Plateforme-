@@ -1,0 +1,9 @@
+
+a.logout-button {
+    color: #dc2a3c;
+    text-decoration: none;
+}
+
+a.logout-button:hover {
+    text-decoration: underline;
+}

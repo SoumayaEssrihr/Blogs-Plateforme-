@@ -1,0 +1,50 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fcfcfc;
+}
+
+
+
+h1{
+    color: rgb(0, 128, 255);
+    text-align: center;
+}
+
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.content {
+    display: flex;
+    width: 90%;
+}
+
+.description {
+    width: 90%; 
+    text-align: justify;
+    margin-right: 60px;
+}
+
+.image-container {
+    width: 90%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 60px;
+}
+
+.image-container img {
+    width: 100%; 
+    height: auto;
+    display: block;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+}
